@@ -31,34 +31,8 @@ Travel-Guide/
 ```
 
 ---
-
-## ▶️ How to Run
-
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/Travel-Guide.git
-   ```
-2. **Navigate to the project folder**
-
-   ```bash
-   cd Travel-Guide
-   ```
-3. **Open the HTML file in a browser**
-
-   * double-click `index.html`
-   * Or open it via any local server (e.g., VS Code Live Server)
-
----
-
 ## 🖼️ Screenshots
 <img width="1919" height="873" alt="Screenshot 2025-08-26 002742" src="https://github.com/user-attachments/assets/abce4fc7-3c0a-44c4-be2b-64469b1a91bf" />
-Example:
-
-```
-![Screenshot of Travel Guide](images/screenshot1.png)
-```
-
 ---
 
 ## 📌 Key Sections in the Page
