@@ -51,5 +51,3 @@ Travel-Guide/
 ---
 ## 📜 License
 This project is licensed under the **MIT License**.
-
-Do you want me to also include a **short HTML code snippet** (like the main container or image overlay section) in the README under a **“Code Preview”** section for better GitHub presentation?
